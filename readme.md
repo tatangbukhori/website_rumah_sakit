@@ -13,7 +13,7 @@ Berikut langkah untuk menginstal file WordPress dari GitHub ke server atau local
 Pastikan Git sudah terinstal, lalu jalankan:
 
 ```
-git clone https://github.com/tatangbukhori/Website_Rumah_Sakit.git
+git clone https://github.com/tatangbukhori/website_rumah_sakit.git
 ```
 
 Ini akan mengunduh file project wordpress.
